@@ -1,0 +1,6 @@
+[submodule "hc-microclass-wx"]
+	path = hc-microclass-wx
+	url = https://github.com/haochtech/hc-microclass-wx.git
+[submodule "hc-microclass-admin"]
+	path = hc-microclass-admin
+	url = https://github.com/haochtech/hc-microclass-admin.git
